@@ -1,0 +1,8 @@
+config:
+  building-with-pulumi:backend_port: "3000"
+  building-with-pulumi:database: cart
+  building-with-pulumi:frontend_port: "3002"
+  building-with-pulumi:mongo_host: mongodb://mongo:27017
+  building-with-pulumi:mongo_port: "27017"
+  building-with-pulumi:node_environment: development
+  building-with-pulumi:org: mphillips97

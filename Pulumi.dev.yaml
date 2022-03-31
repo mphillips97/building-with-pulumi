@@ -1,0 +1,5 @@
+config:
+  aws:region: us-east-1
+  building-with-pulumi:mongo_password:
+    secure: AAABAB1C0E5XfyCokaMzwgvle2mFG8QmR5XsUNIrxw/d0Tn2rgc=
+  building-with-pulumi:mongo_username: admin
